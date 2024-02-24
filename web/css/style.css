@@ -1,0 +1,25 @@
+
+div {
+    padding: 1em;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+}
+
+.dataframe {
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 1px solid;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

@@ -1,0 +1,250 @@
+name,type
+person_id,id
+age_dict,id
+Abnormal weight gain,cond
+Abnormal weight loss,cond
+Acanthosis nigricans,cond
+Anxiety,cond
+Anxiety about body function or health,cond
+Anxiety disorder,cond
+Anxiety disorder of childhood,cond
+Anxiety disorder of childhood OR adolescence,cond
+Asthma,cond
+Asthma-chronic obstructive pulmonary disease overlap syndrome,cond
+Asthmatic bronchitis,cond
+Baby birth weight 2.0-2.5kg,cond
+Binge eating disorder,cond
+Body mass index 30+ - obesity,cond
+Child weight centiles - finding,cond
+Childhood failure to gain weight,cond
+Childhood obesity,cond
+Cholelithiasis with obstruction,cond
+Chronic kidney disease due to hypertension,cond
+Chronic kidney disease stage 3 due to hypertension,cond
+Chronic kidney disease stage 5 due to hypertension,cond
+Constipation,cond
+Constipation alternates with diarrhea,cond
+Developmental delay,cond
+Developmental delay in fine motor function,cond
+Developmental delay in receptive-expressive language,cond
+Diabetes mellitus,cond
+Diabetes mellitus associated with pancreatic disease,cond
+Diastolic hypertension,cond
+Elevated blood pressure,cond
+Elevated liver enzymes level,cond
+Essential hypertension,cond
+Excessive weight gain,cond
+Extreme obesity with alveolar hypoventilation,cond
+Extremely low birth weight infant,cond
+FH: Cardiac disorder,fh
+FH: Cardiomyopathy,fh
+FH: Cardiovascular disease,fh
+FH: Chromosomal anomaly,fh
+FH: Diabetes mellitus,fh
+FH: Drug dependency,fh
+FH: Gastrointestinal disease,fh
+FH: Hypercholesterolemia,fh
+FH: Muscular dystrophy,fh
+FH: Myocardial infarction,fh
+FH: Obesity,fh
+FH: Obstetric problem,fh
+FH: Thyroid disorder,fh
+Failure to gain weight,cond
+Family history of Marfan syndrome,fh
+Family history of Von Willebrand disease,fh
+Family history of alcoholism,fh
+Family history of aneurysm of artery,fh
+Family history of asthma,fh
+Family history of attention deficit hyperactivity disorder,fh
+Family history of autism,fh
+Family history of autism in sibling,fh
+Family history of blood coagulation disorder,fh
+Family history of conduction disorder of the heart,fh
+Family history of consanguinity,fh
+Family history of coronary arteriosclerosis,fh
+Family history of development disorder,fh
+Family history of diabetes mellitus type 1,fh
+Family history of genetic disorder carrier,fh
+Family history of heart failure,fh
+Family history of hyperlipidemia,fh
+Family history of ischemic heart disease,fh
+Family history of kidney disease,fh
+Family history of learning disability,fh
+Family history of malignant neoplasm of thyroid,fh
+Family history of mental disorder,fh
+Family history of neurological disorder,fh
+Family history of polycystic ovary syndrome,fh
+Family history of problem behavior,fh
+Family history of sudden cardiac death,fh
+Gastroesophageal reflux disease,cond
+Gastroesophageal reflux in child,cond
+H/O: hypertension,cond
+High hemoglobin A1c level,cond
+Hypothalamic hypothyroidism,cond
+Hypothalamic overactivity,cond
+Hypothalamic syndrome,cond
+Hypothyroidism,cond
+Hypothyroidism caused by drug,cond
+Hypothyroidism due to Hashimoto's thyroiditis,cond
+Low birth weight infant,cond
+Malignant essential hypertension,cond
+Malignant hypertension,cond
+Mixed hypercholesterolemia and hypertriglyceridemia,cond
+Morbid obesity,cond
+Obesity,cond
+Obstructive sleep apnea syndrome,cond
+Overweight,cond
+Overweight in childhood,cond
+Precocious puberty,cond
+Prediabetes,cond
+Prehypertension,cond
+Primary hypertriglyceridemia,cond
+Pure hypercholesterolemia,cond
+Recent weight loss,cond
+Secondary hypertension,cond
+Severe obesity,cond
+Simple obesity,cond
+Slow weight gain,cond
+Systolic hypertension,cond
+Transient hypertension,cond
+Unable to weight-bear,cond
+Underweight,cond
+Unintentional weight loss,cond
+Very low birth weight infant,cond
+2000000043,meas
+3000330,meas
+3000963,meas
+3001604,meas
+3002030,meas
+3004249,meas
+3004501,meas
+3006315,meas
+3006504,meas
+3006906,meas
+3006923,meas
+3007461,meas
+3007950,meas
+3009542,meas
+3009744,meas
+3010813,meas
+3010910,meas
+3012030,meas
+3012888,meas
+3013115,meas
+3013682,meas
+3014576,meas
+3015632,meas
+3016723,meas
+3017354,meas
+3017732,meas
+3019069,meas
+3019198,meas
+3019550,meas
+3020416,meas
+3020630,meas
+3020891,meas
+3020951,meas
+3022174,meas
+3022621,meas
+3022640,meas
+3023103,meas
+3024128,meas
+3024171,meas
+3024561,meas
+3024629,meas
+3024731,meas
+3027018,meas
+3028406,meas
+3031147,meas
+3035995,meas
+3037577,meas
+3038553,meas
+3043111,meas
+3045424,meas
+3049383,meas
+40762499,meas
+40762638,meas
+ADRENERGICS FOR SYSTEMIC USE,med
+"ADRENERGICS, INHALANTS",med
+AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE,med
+AMINOGLYCOSIDE ANTIBACTERIALS,med
+"ANESTHETICS, GENERAL",med
+"ANESTHETICS, LOCAL",med
+ANTACIDS,med
+"ANTIARRHYTHMICS, CLASS I AND III",med
+ANTIBIOTICS FOR TOPICAL USE,med
+ANTIDIARRHEAL MICROORGANISMS,med
+ANTIEMETICS AND ANTINAUSEANTS,med
+ANTIEPILEPTICS,med
+ANTIFUNGALS FOR SYSTEMIC USE,med
+ANTIFUNGALS FOR TOPICAL USE,med
+ANTIGLAUCOMA PREPARATIONS AND MIOTICS,med
+ANTIHISTAMINES FOR SYSTEMIC USE,med
+ANTIINFECTIVES,med
+"ANTIINFECTIVES AND ANTISEPTICS, EXCL. COMBINATIONS WITH CORTICOSTEROIDS",med
+ANTIINFLAMMATORY AGENTS AND ANTIINFECTIVES IN COMBINATION,med
+"ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS, NON-STEROIDS",med
+ANTIINFLAMMATORY/ANTIRHEUMATIC AGENTS IN COMBINATION,med
+ANTIMYCOTICS FOR SYSTEMIC USE,med
+"ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.",med
+ANTISEPTICS AND DISINFECTANTS,med
+ANTISPASMODICS IN COMBINATION WITH PSYCHOLEPTICS,med
+ANTITHROMBOTIC AGENTS,med
+ANTIVARICOSE THERAPY,med
+ANXIOLYTICS,med
+"BETA-LACTAM ANTIBACTERIALS, PENICILLINS",med
+CARDIAC STIMULANTS EXCL. CARDIAC GLYCOSIDES,med
+CHEMOTHERAPEUTICS FOR TOPICAL USE,med
+CORTICOSTEROIDS AND ANTIINFECTIVES IN COMBINATION,med
+"CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN",med
+"CORTICOSTEROIDS, COMBINATIONS WITH ANTIBIOTICS",med
+"CORTICOSTEROIDS, OTHER COMBINATIONS",med
+"CORTICOSTEROIDS, PLAIN",med
+DECONGESTANTS AND ANTIALLERGICS,med
+DECONGESTANTS AND OTHER NASAL PREPARATIONS FOR TOPICAL USE,med
+DIRECT ACTING ANTIVIRALS,med
+DRUGS FOR CONSTIPATION,med
+DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,med
+DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD),med
+Dextromethorphan Hydrobromide 3.13 MG/ML / Pseudoephedrine Hydrochloride 9.38 MG/ML Oral Solution [PediaCare Infant Decongestant & Cough],med
+"ECTOPARASITICIDES, INCL. SCABICIDES",med
+HIGH-CEILING DIURETICS,med
+HYPNOTICS AND SEDATIVES,med
+I.V. SOLUTION ADDITIVES,med
+I.V. SOLUTIONS,med
+IMMUNOGLOBULINS,med
+INTESTINAL ANTIINFECTIVES,med
+IRON PREPARATIONS,med
+IRRIGATING SOLUTIONS,med
+"LIPID MODIFYING AGENTS, PLAIN",med
+"MACROLIDES, LINCOSAMIDES AND STREPTOGRAMINS",med
+"MUSCLE RELAXANTS, PERIPHERALLY ACTING AGENTS",med
+NASAL DECONGESTANTS FOR SYSTEMIC USE,med
+OPIOIDS,med
+OTHER ANALGESICS AND ANTIPYRETICS,med
+OTHER ANTIBACTERIALS,med
+OTHER BETA-LACTAM ANTIBACTERIALS,med
+OTHER DERMATOLOGICAL PREPARATIONS,med
+OTHER DIAGNOSTIC AGENTS,med
+"OTHER DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES, INHALANTS",med
+OTHER MINERAL SUPPLEMENTS,med
+OTHER NERVOUS SYSTEM DRUGS,med
+OTHER OTOLOGICALS,med
+OTHER SYSTEMIC DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,med
+PARASYMPATHOMIMETICS,med
+PROPULSIVES,med
+STOMATOLOGICAL PREPARATIONS,med
+SULFONAMIDES AND TRIMETHOPRIM,med
+THROAT PREPARATIONS,med
+UROLOGICALS,med
+"VITAMIN A AND D, INCL. COMBINATIONS OF THE TWO",med
+VITAMIN B12 AND FOLIC ACID,med
+VITAMIN K AND OTHER HEMOSTATICS,med
+gadopentetate dimeglumine Prefilled Syringe,med
+levalbuterol Inhalation Solution,med
+petrolatum Topical Ointment,med
+racepinephrine Inhalation Solution,med
+simethicone Oral Suspension,med
+sodium chloride 0.111 MEQ/ML Nasal Spray [Saline Spray],med
+sodium chloride Nasal Solution,med
+sodium chloride Nasal Spray,med
